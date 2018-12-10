@@ -44,7 +44,7 @@ wanted to add specific dates to a month, we could put a list inside of our
   </li>
 </ul>
 ```
-
+NaNaNa
 Save your file, start up `httpserver`, and on the browser tab where you've got
 the server displaying our webpage, add `/real-estate-listings.html` to the end
 of the URL path to see our Listings page. In the browser, we'll see that `ul`
